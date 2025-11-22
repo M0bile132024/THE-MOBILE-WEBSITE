@@ -20,11 +20,18 @@ function handleButtonClick() {
 // Example of adding an event listener to a button
 document.getElementById("mybuton").addEventListener("click", handleButtonClick);
 //Varibles
-var userName = prompt("Please enter your name:");
-console.log("User's name is: " + userName);
+let userName = prompt("Please enter your name(authentication purposes....):");
+console.log(`User's name is: ${userName} write that down`);
+
+
+
+
+//Send varible to website
+
+
 // End of JavaScript code
 
-// THE MOBILE WEBSITE VERSION 1.4:The Jarvis Update
-// Author: M0bile132022
-// Date of last test: 18/10/25
+/* THE MOBILE WEBSITE VERSION 1.5: COLOURFUL P@22W0RDS
+Author: M0bile132022
+Date of last test: 22/11/25 */
 
