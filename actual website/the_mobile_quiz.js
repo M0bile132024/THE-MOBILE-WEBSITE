@@ -1,0 +1,3 @@
+// THE MOBILE WEBSITE VERSION 1.6: QUIZZICAL STYLIST:
+// Author: M0bile132022
+// Date of last test: 11/01/26

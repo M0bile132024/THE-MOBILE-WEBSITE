@@ -1,0 +1,55 @@
+body {
+  background-color: lightblue;
+}
+
+
+p.red, button {
+  color: red;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border: 2px solid red;
+  padding: 10px;
+  background-color: pink;
+  font-size: 120%;
+}
+.center {
+  color: brown;
+}
+.large {
+  font-size: 300%;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bolder;
+  color: goldenrod;
+}
+#Para1 {
+  color: gray;
+  background-color: rgba(250, 250, 148, 0.637); 
+  padding: 10px; 
+  margin-bottom: 20px;
+}
+* {
+  text-align: center;
+}
+button:hover {
+  background-color: yellow;
+  color: blue;
+  font-size: 130%;
+}
+button:active {
+  background-color: orange;
+  color: white;
+  font-size: 140%;
+}
+.correct {
+  color: green;
+  font-weight: bold;
+}
+.incorrect {
+  color: red;
+  font-weight: bold;
+}
+
+/* THE-MOBILE-WEBSITE v1.6:QUIZZICAL STYLIST:
+Author:M0bile132022
+Date of last test:11/01/2026 */

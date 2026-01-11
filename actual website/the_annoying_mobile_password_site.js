@@ -40,7 +40,7 @@ const togglePassword = document.getElementById('togglePassword');
             passwordInput.setAttribute('type', type);
             togglePassword.textContent = type === 'password' ? 'Show Password' : 'Hide Password';
         });
-/* End of THE MOBILE WEBSITE VERSION V1.5 COLOURFUL P@22W0RDS
+/* End of THE MOBILE WEBSITE VERSION V1.6:QUIZZICAL STYLIST:
 Author: M0bile132022
-Date of last test: 22/11/2025 */
+Date of last test: 11/01/2026 */
 
